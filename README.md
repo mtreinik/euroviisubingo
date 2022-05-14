@@ -1,5 +1,7 @@
 # Euroviisubingo
 
-Eurovision Song Contest bingo card generator in Finnish.
+Eurovision Song Contest bingo card generator in English and Finnish.
 
-Try it out here (in Finnish): https://mikkoreinikainen.fi/euroviisubingo
+Try it out here: 
+- https://mikkoreinikainen.fi/esc-bingo
+- https://mikkoreinikainen.fi/euroviisubingo (in Finnish)

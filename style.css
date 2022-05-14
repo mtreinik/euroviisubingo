@@ -1,0 +1,45 @@
+body {
+    padding: 2em 2em 2em 2em;
+    font-family: "Gill Sans", sans-serif;
+}
+
+button {
+    font-family: inherit;
+    font-size: 1em;
+}
+
+.form-group {
+    margin-top: 1em;
+}
+
+.bingo-table {
+    margin: 2em;
+}
+.about {
+    margin-top: 1em;
+    font-size: x-small;
+    text-align: center;
+}
+
+.print-and-clear {
+    display: none;
+    margin-left: 5em;
+}
+.bingo-table td {
+    border: solid 1px;
+    padding: 0.5em;
+}
+
+@media print {
+    .bingo-table {
+        page-break-after: always;
+    }
+
+    .non-printing {
+        display: none;
+    }
+}
+
+.float-right {
+    float: right
+}
