@@ -107,7 +107,17 @@ items = [
   "flag as part of clothing",
   "a mythological or historical character",
   "a kick",
-  "clear symbolism"
+  "clear symbolism",
+  "a funny hat",
+  "tricky camera angles",
+  "performer has bare feet",
+  "performer has wings",
+  "breaking gender norms",
+  "intentional tastelessness",
+  "bare buttocks",
+  "cultural appropriation",
+  "a mask",
+  "glittering clothes"
 ]
 
 
