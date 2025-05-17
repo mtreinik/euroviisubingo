@@ -1,8 +1,8 @@
 translations = {
   "1-bingo-chart": "1 bingo chart",
   "bingo-charts": "bingo charts",
-  "about-text": "mikkoreinikainen.fi/esc-bingo"
-}
+  "about-text": "mikkoreinikainen.fi/esc-bingo",
+};
 
 items = [
   "A creepy smile",
@@ -117,21 +117,41 @@ items = [
   "bare buttocks",
   "cultural appropriation",
   "a mask",
-  "glittering clothes"
-]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  "glittering clothes",
+  "gender norms are broken in a new way",
+  "the performance is deliberately tasteless",
+  "someone could be offended by this",
+  "the performance radiates self-destructiveness",
+  "female outfit erases all femininity",
+  "rhythmic gymnastics outfit",
+  "a really intense gaze",
+  "all-white outfit or stage design",
+  "someone is being searched for",
+  "stage prop made of an unusual material",
+  "the stage is used in a new way",
+  "really warm clothing",
+  "a magnificent hand gesture",
+  "something completely weird on stage",
+  "sparkling clothes",
+  "someone is carrying someone",
+  "a wink",
+  "devil theme",
+  "oops, that is really porn-y",
+  "less than 1/4 m² of fabric on the performer",
+  "shocking facial expression",
+  "greetings to mom or family",
+  "singer is tied up or otherwise unable to move",
+  "accessory covering the eyes",
+  "presenter messes up lines or freezes",
+  "we're all one big family",
+  "pseudo-artistic",
+  "Christian reference",
+  "there is running in the performance",
+  "climate change theme",
+  "amazing hairstyle",
+  "flag is used as or in clothing",
+  "outrageous shoes",
+  "exaggerated symbolism",
+  "a kick",
+  "mythological or historical figure",
+];
