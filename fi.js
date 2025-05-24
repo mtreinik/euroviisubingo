@@ -159,4 +159,6 @@ items = [
   "korostettua symboliikkaa",
   "potku",
   "mytologinen hahmo tai historiallinen henkilö",
+  "joku syö",
+  "kulkuväline"
 ];

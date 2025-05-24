@@ -154,4 +154,6 @@ items = [
   "exaggerated symbolism",
   "a kick",
   "mythological or historical figure",
+  "someone eats",
+  "transportation device"
 ];
