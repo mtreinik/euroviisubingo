@@ -123,7 +123,6 @@ items = [
   "kulttuurista omimista",
   "naamio tai kasvot peitossa",
   "kimaltelevat vaatteet",
-
   "rikotaan sukupuolinormeja uudella tavalla",
   "esitys on tarkoitusella mauton",
   "joku voi loukkaantua tästä",
@@ -143,7 +142,7 @@ items = [
   "silmänisku",
   "paholaisteema",
   "oho, onpa tosi pornoo",
-  "esiintyjän päällä alle 1/4 m2 kangasta",
+  "esiintyjän päällä alle 1/4 m² kangasta",
   "järkky ilme",
   "terkkuja äidille tai perheelle",
   "laulaja on sidottu tai muuten estetty liikkumasta",
